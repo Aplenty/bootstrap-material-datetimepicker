@@ -24,7 +24,7 @@
   ],
   "dependencies": {
     "moment": "~2.10.2",
-    "jquery": "1.12.3",
+    "jquery": "1.12.3"
   },
   "repository": {
     "type": "git",
